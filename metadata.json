@@ -1,0 +1,6 @@
+{
+  "name": "RingForce",
+  "description": "Programme d'entraînement force et nutrition adapté à la boxe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
